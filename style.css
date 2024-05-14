@@ -1,0 +1,33 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+
+.intro,
+.description {
+  border: 2px solid black;
+  padding: 4px;
+  display: inline-block;
+  color: black;
+}
+
+li {
+  padding: 3px;
+  color: black;
+}
+
+#link {
+  padding: 1px;
+  margin: 4px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+img {
+  border: 0.5px solid black;
+  margin-left: 5px;
+}
